@@ -1,0 +1,9 @@
+# Runtime dependencies (Python 3.12).
+numpy==2.2.6
+scipy==1.15.3
+nd2==0.10.4
+PyQt5==5.15.11
+matplotlib==3.10.3
+pyqtgraph==0.13.7
+opencv-python==4.12.0.88
+# CuPy is optional; install separately only for a compatible CUDA system.

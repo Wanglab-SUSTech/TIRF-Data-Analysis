@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using this metadata."
+type: software
+title: "TIRF Trace Extractor"
+abstract: "Extraction of two-color fluorescence traces from ND2 recordings of single-molecule colocalization experiments."
+authors:
+  - family-names: "Li"
+    given-names: "Zhihang"
+license: GPL-3.0-only
