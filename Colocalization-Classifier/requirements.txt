@@ -1,0 +1,7 @@
+# Shared dependencies for the classifier and signal_filter (Python 3.12).
+numpy==2.2.6
+scipy==1.15.3
+pandas==3.0.1
+matplotlib==3.10.3
+PyQt5==5.15.11
+# signal_filter also needs tkinter/Tcl-Tk from the Python installation.

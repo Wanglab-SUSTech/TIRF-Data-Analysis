@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using this metadata."
+type: software
+title: "Colocalization Classifier"
+abstract: "Filtering and manual classification of two-color fluorescence traces, with dwell-time extraction."
+authors:
+  - family-names: "Li"
+    given-names: "Zhihang"
+license: GPL-3.0-only
